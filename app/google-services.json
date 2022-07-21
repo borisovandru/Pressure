@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613741976971",
+    "project_id": "pressure-4adcf",
+    "storage_bucket": "pressure-4adcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613741976971:android:419b60d8580c6ff5abe38e",
+        "android_client_info": {
+          "package_name": "com.borisov.pressure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613741976971-q6lbrklpvsq8nk7p2vvj7hrj88h93ngb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCISvc5dS4E_RwqprTyZ1H04wSq5YS9zdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613741976971-q6lbrklpvsq8nk7p2vvj7hrj88h93ngb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
